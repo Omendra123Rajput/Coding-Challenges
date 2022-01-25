@@ -5,6 +5,8 @@
 
 function filterRange(arr,a,b){
 
+    //method 1
+
     // let newArr = []
 
     // for ( let i = 0; i<arr.length ; i++){
@@ -16,7 +18,7 @@ function filterRange(arr,a,b){
 
     // return newArr
 
-
+    //method 2
 
     let result = arr.filter(  
 
