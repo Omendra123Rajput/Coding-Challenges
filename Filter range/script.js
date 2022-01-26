@@ -19,8 +19,8 @@ function filterRange(arr,a,b){
     // return newArr
 
     //method 2
-    //test 1
-
+    
+    //test 2
     let result = arr.filter(  
 
         (item) => (item >=a && item <=b) //filter iterate through all elements and returns array of filtered elements
